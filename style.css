@@ -1,0 +1,480 @@
+@import url("https://fonts.googleapis.com/css2?family=David+Libre:wght@400;500;700&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
+.main {
+  display: flex;
+}
+.home {
+  height: 1150px;
+}
+.logo1 {
+  margin-top: 56px;
+  margin-left: 180px;
+}
+.logo2 {
+  position: absolute;
+}
+* {
+  margin: 0;
+}
+.nv {
+  display: flex;
+  margin-top: 82px;
+  margin-left: 200px;
+  font-size: 15px;
+  gap: 50px;
+}
+.w {
+  font-family: "Inter";
+  color: #101a24;
+}
+.bat {
+  background-color: #ea6d27;
+  padding: 20px 25px 20px 25px;
+  margin-top: 65px;
+  margin-left: 300px;
+  font-size: 17px;
+  color: white;
+  font-family: "David Libre";
+  border-radius: 10px 0 10px 0;
+}
+.log {
+  margin-top: 140px;
+  margin-left: 130px;
+}
+.te {
+  margin-left: 180px;
+  margin-top: 310px;
+  font-size: 70px;
+  font-family: "David Libre";
+  position: absolute;
+}
+.ma {
+  display: flex;
+}
+.se {
+  display: flex;
+}
+.photo {
+  margin-left: 500px;
+  margin-top: 50px;
+}
+.te2 {
+  position: absolute;
+  margin-left: 180px;
+  margin-top: 500px;
+  line-height: 35px;
+  font-family: "Inter";
+  color: #5c6574;
+}
+.menu1 {
+  position: absolute;
+  margin-left: 180px;
+  margin-top: 650px;
+  background-color: #101a24;
+  color: #ffffff;
+  padding: 15px 30px;
+  border-radius: 10px 0;
+}
+.bat2 {
+  position: absolute;
+  margin-left: 300px;
+  margin-top: 650px;
+  padding: 15px 35px;
+  border-radius: 10px 0;
+  background-color: #ea6d27;
+  color: #ffffff;
+}
+.twitter {
+  position: absolute;
+  margin-left: 290px;
+  margin-top: 780px;
+}
+.r {
+  position: absolute;
+  margin-top: 9px;
+  margin-left: 9px;
+}
+.t {
+  position: absolute;
+}
+.ia {
+  position: absolute;
+  margin-left: 230px;
+  margin-top: 780px;
+}
+.fb {
+  position: absolute;
+  margin-left: 170px;
+  margin-top: 780px;
+}
+.semain {
+  background-color: whitesmoke;
+  height: 1877px;
+  opacity: 120%;
+  width: 1880px;
+}
+
+.text1 {
+  position: relative;
+  font-size: 60px;
+  font-family: "David Libre";
+  top: -200px;
+  left: 600px;
+}
+.tex1 {
+  position: relative;
+  line-height: 30px;
+  color: #5c6574;
+  top: -170px;
+  left: 680px;
+  font-size: 16px;
+}
+.pht1 {
+  position: relative;
+  left: 400px;
+}
+.food {
+  position: relative;
+  top: -70px;
+  left: -100px;
+  display: grid;
+  grid-template-columns: repeat(4, 200px);
+  gap: 100px;
+  grid-template-rows: 300px;
+  justify-content: center;
+}
+.el1 {
+  grid-column: 1/2;
+}
+.el2 {
+  grid-column: 2/3;
+}
+.el3 {
+  grid-column: 3/4;
+}
+.el4 {
+  grid-column: 4/5;
+}
+.on2 {
+  position: relative;
+  top: -80px;
+}
+.on3 {
+  position: relative;
+  left: -430px;
+  top: -100px;
+}
+.salat1 {
+  position: relative;
+  top: 270px;
+  left: 180px;
+}
+.salat2 {
+  position: relative;
+  top: -200px;
+  left: 200px;
+}
+.salat3 {
+  position: relative;
+  top: -500px;
+  left: 770px;
+}
+.salat4 {
+  position: relative;
+  top: -180px;
+  left: 300px;
+}
+.salat5 {
+  position: relative;
+  left: 570px;
+  top: -430px;
+}
+.on4 {
+  position: relative;
+  left: 910px;
+  top: -960px;
+}
+.te4 {
+  position: relative;
+  top: -1050px;
+  left: 960px;
+  font-size: 33px;
+  font-family: "David Libre";
+  font-weight: 400;
+  color: #101a24;
+}
+.p2 {
+  position: relative;
+  top: -1000px;
+  left: 960px;
+  line-height: 30px;
+  color: #5c6574;
+}
+.on5 {
+  position: relative;
+  top: -1000px;
+  left: 800px;
+}
+.me1 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  background-color: #101a24;
+  color: #ffffff;
+  padding: 15px 0 15px 0;
+  border-radius: 10px 0;
+  width: 100px;
+  font-family: "David Libre";
+  font-size: 15px;
+  font-weight: 300;
+  left: 160px;
+  top: -60px;
+}
+.bot2 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  background-color: #ea6d27;
+  color: #ffffff;
+  padding: 15px 0 15px 0;
+  border-radius: 10px 0;
+  width: 150px;
+  font-family: "David Libre";
+  font-size: 15px;
+  font-weight: 300;
+  left: 280px;
+  top: -105px;
+}
+.on6 {
+  position: relative;
+  top: -310px;
+  left: 160px;
+}
+.lif1 {
+  position: relative;
+  left: 460px;
+  top: -280px;
+}
+.on7 {
+  position: relative;
+  top: -750px;
+}
+.on8 {
+  position: relative;
+  top: -750px;
+  left: 30px;
+}
+.eo1 {
+  position: relative;
+  font-size: 60px;
+  font-family: "David Libre";
+  top: -900px;
+  left: 200px;
+}
+.lorem {
+  color: #5c6574;
+  position: relative;
+  font-family: "Inter";
+  line-height: 29px;
+  top: -850px;
+  left: 200px;
+}
+.ch1 {
+  position: relative;
+  top: -800px;
+  left: 200px;
+}
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+.third {
+  height: 150px;
+}
+.lor {
+  position: relative;
+  color: #5c6574;
+  font-family: "Inter";
+  top: -835px;
+  left: 230px;
+}
+.ch2 {
+  position: relative;
+  top: -780px;
+  left: 200px;
+}
+.lor1 {
+  position: relative;
+  color: #5c6574;
+  font-family: "Inter";
+  top: -815px;
+  left: 230px;
+}
+.ch3 {
+  position: relative;
+  top: -760px;
+  left: 200px;
+}
+.lor2 {
+  position: relative;
+  color: #5c6574;
+  font-family: "Inter";
+  top: -795px;
+  left: 230px;
+}
+.ch4 {
+  position: relative;
+  top: -1005px;
+  left: 520px;
+}
+.lor3 {
+  position: relative;
+  color: #5c6574;
+  font-family: "Inter";
+  top: -1040px;
+  left: 550px;
+}
+.ch5 {
+  position: relative;
+  top: -985px;
+  left: 520px;
+}
+.lor4 {
+  position: relative;
+  color: #5c6574;
+  font-family: "Inter";
+  top: -1020px;
+  left: 550px;
+}
+.ch6 {
+  position: relative;
+  top: -965px;
+  left: 520px;
+}
+.lor5 {
+  position: relative;
+  color: #5c6574;
+  font-family: "Inter";
+  top: -1000px;
+  left: 550px;
+}
+.men1 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  background-color: #101a24;
+  color: #ffffff;
+  padding: 15px 0 15px 0;
+  border-radius: 10px 0;
+  width: 110px;
+  font-family: "David Libre";
+  font-size: 15px;
+  font-weight: 300;
+  left: 260px;
+  top: -940px;
+}
+.bot3 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  background-color: #ea6d27;
+  color: #ffffff;
+  padding: 15px 0 15px 0;
+  border-radius: 10px 0;
+  width: 170px;
+  font-family: "David Libre";
+  font-size: 15px;
+  font-weight: 300;
+  left: 400px;
+  top: -985px;
+}
+.chef1 {
+  position: relative;
+  left: 950px;
+  top: -1650px;
+}
+.forth {
+  background-color: #f3f4f4;
+  height: 1289px;
+}
+.ck1 {
+  position: relative;
+  top: 150px;
+}
+.ohc {
+  position: relative;
+  top: -770px;
+  color: #101a24;
+  font-size: 60px;
+  font-family: "David Libre";
+  left: 600px;
+}
+.lorem1 {
+  position: relative;
+  color: #5c6574;
+  font-family: "Inter";
+  line-height: 29px;
+  top: -750px;
+  left: 680px;
+}
+.ot1 {
+  position: relative;
+  left: 500px;
+  top: -700px;
+}
+.ot2 {
+  position: relative;
+  left: 500px;
+  top: -700px;
+}
+.pr1 {
+  position: relative;
+  top: -1000px;
+  left: 750px;
+}
+.pro1 {
+  position: relative;
+  left: 100px;
+  top: -500px;
+}
+.gop {
+  position: relative;
+  font-size: 50px;
+  font-family: "David Libre";
+  line-height: 58px;
+  font-weight: bold;
+  text-align: center;
+  left: -100px;
+  top: -830px;
+  color: #ffffff;
+}
+.rectan1 {
+  position: relative;
+  top: -770px;
+  left: 500px;
+}
+.send1 {
+  position: relative;
+  top: -780px;
+  left: -150px;
+}
+.icon2 {
+  position: relative;
+  left: 400px;
+  top: 200px;
+}
+.footerf {
+  position: relative;
+  left: 280px;
+  top: -460px;
+}
+.footer {
+  height: 900px;
+  overflow: hidden;
+}
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
